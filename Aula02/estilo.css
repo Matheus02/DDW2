@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+#principal{
+	width:1024px;
+	height:100%;
+	margin: 0 auto; //para manter centralizado//
+	}
+
+header#cabecalho{
+	width:1024px;
+	height:100px;
+	background-color:#900;
+	float:left;
+	}
+header#cabecalho h1{
+	font-family:"Treabuchet MS", Arial, Helvetica, sans-serif;
+	font-size:36px;
+	color:#FFF;
+	text-align:center;
+	}
+
+section#corpo{
+	width:1024px;
+	height:100%;
+	background-color:#F9C;
+	float:left;
+	}
+
+footer#rodape{
+	width:1024px;
+	height:68px;
+	background-color:#900;
+	float:left;
+	}
+footer#rodape h3{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif
+	font-size:18px;
+	color:#FFF;
+	text-align:center;
+	}
